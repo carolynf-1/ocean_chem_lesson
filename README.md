@@ -5,9 +5,9 @@ The lesson is geared towards chemistry students in grades 9 - 12 in Washington s
 
 Descriptions of files contained in this repo:
 
-- [AlkalinityTitrationCalculations_playing around with standar offset.xls](https://github.com/kubu4/ocean_chem_lesson/blob/master/AlkalinityTitrationCalculations_playing%20around%20with%20standard%20offset.xls)
+- [AlkalinityTitrationCalculations_playing around with standar offset.xls](https://github.com/kubu4/ocean_chem_lesson/blob/master/AlkalinityTitrationCalculations_playing%20around%20with%20standard%20offset.xls) - Modification of the [AlkalinityTitrationCalculations_template.xls](https://github.com/kubu4/ocean_chem_lesson/blob/master/AlkalinityTitrationCalculations_template.xls) by Molly Roberts in an attempt to incorporate an offset calculation for sample standards.
 
-- [AlkalinityTitrationCalculations_template.xls](https://github.com/kubu4/ocean_chem_lesson/blob/master/AlkalinityTitrationCalculations_template.xls)
+- [AlkalinityTitrationCalculations_template.xls](https://github.com/kubu4/ocean_chem_lesson/blob/master/AlkalinityTitrationCalculations_template.xls) - Spreadsheet for recording data to plot titrations curves and determine sample alkalinity.
 
 - [CO2Sys_OA_HS_curriculum_FINAL.xls](https://github.com/kubu4/ocean_chem_lesson/blob/master/CO2Sys_OA_HS_curriculum_FINAL.xls)
 
