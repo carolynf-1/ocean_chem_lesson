@@ -9,7 +9,7 @@ Descriptions of files contained in this repo:
 
 - [AlkalinityTitrationCalculations_template.xls](https://github.com/kubu4/ocean_chem_lesson/blob/master/AlkalinityTitrationCalculations_template.xls) - Spreadsheet for recording data to plot titrations curves and determine sample alkalinity.
 
-- [CO2Sys_OA_HS_curriculum_FINAL.xls](https://github.com/kubu4/ocean_chem_lesson/blob/master/CO2Sys_OA_HS_curriculum_FINAL.xls)
+- [CO2Sys_OA_HS_curriculum_FINAL.xls](https://github.com/kubu4/ocean_chem_lesson/blob/master/CO2Sys_OA_HS_curriculum_FINAL.xls) - Spreadsheet for calculating dissolved CO2 (pCO2) in student samples, based on data collected from alkalinity titrations.
 
 - [lab_protocol.md](https://github.com/kubu4/ocean_chem_lesson/blob/master/lab_protocol.md) - Contains the lab protocol for students to follow in order to conduct this lesson.
 
