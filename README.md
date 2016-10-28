@@ -3,6 +3,14 @@ Lesson plan and curriculum development for basic ocean chemistry.
 
 The lesson is geared towards chemistry students in grades 9 - 12 in Washington state schools.
 
+Descriptions of files contained in this repo:
+
+- [AlkalinityTitrationCalculations_playing around with standar offset.xls](https://github.com/kubu4/ocean_chem_lesson/blob/master/AlkalinityTitrationCalculations_playing%20around%20with%20standard%20offset.xls)
+
+- [AlkalinityTitrationCalculations_template.xls](https://github.com/kubu4/ocean_chem_lesson/blob/master/AlkalinityTitrationCalculations_template.xls)
+
+- [CO2Sys_OA_HS_curriculum_FINAL.xls](https://github.com/kubu4/ocean_chem_lesson/blob/master/CO2Sys_OA_HS_curriculum_FINAL.xls)
+
 - [lab_protocol.md](https://github.com/kubu4/ocean_chem_lesson/blob/master/lab_protocol.md) - Contains the lab protocol for students to follow in order to conduct this lesson.
 
 - [lesson_plan.md file](https://github.com/kubu4/ocean_chem_lesson/blob/master/lesson_plan.md) - Contains specific [Washington state teaching standards](http://www.k12.wa.us/Science/NGSS.aspx) addressed by this lesson, lesson objectives, key definitions, background info on ocean acidification, materials required, and lesson timings.
