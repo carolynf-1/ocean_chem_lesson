@@ -1,6 +1,7 @@
 Procedure:
 
 PART 1: Dilutions
+
 Use stock seawater solution and make dilutions to achieve a dilute solution of salinity (put in image)
 (note – you may either make one dilution that will match your 
 seawater sample or may make a set of standards with two dilutions 
