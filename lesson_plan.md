@@ -1,6 +1,6 @@
 LESSON TITLE: Ocean Acidification and Carbonate Chemistry
 
-LEARNING OBJECTIVES: 
+LEARNING OBJECTIVES: 
 - Understand how CO2 affects ocean pH
 - Understand how CO2 dissolves in water
 - Learn relationship between ocean CO2, alkalinity, salinity, temperature, and pH
@@ -44,6 +44,7 @@ KEY BACKGROUND KNOWLEDGE:
 
 - Understand pH (i.e. measurement of [H+])
 - Concept of solutions (i.e. mixture of dissolved/mixed chemicals, including gases)
+- Basic algebra (ability to solve for an unknown value in a two-side equation)
 
 BACKGROUND:
 What is ocean acidification?
