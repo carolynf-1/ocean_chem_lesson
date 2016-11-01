@@ -16,13 +16,13 @@ WA STATE STANDARDS: e.g. HS-ESS3-1,HS-ESS3-6. See http://www.nextgenscience.org/
 
 KEY VOCABULARY:
 
-ocean acidification – DEFINITION
+ocean acidification – A decrease in ocean water pH caused by increasing atmospheric levels of carbon dioxide (CO2) caused by human activies.
 
-pCO2 – DEFINITION
+pCO2 – A measurement of the partial pressure of CO2 in solution.
 
-pH – DEFINITION
+pH – Measurement of how acidic/basic a solution is, based on the concentration of hydrogen ions in a solution (pH = -log[H+]).
 
-salinity – DEFINITION
+salinity – Measurement of how much salt is dissolved in a solution.
 
 total alkilinity – DEFINITION
 
@@ -47,6 +47,7 @@ KEY BACKGROUND KNOWLEDGE:
 - Basic algebra (ability to solve for an unknown value in a two-side equation)
 
 BACKGROUND:
+
 What is ocean acidification?
  
 What drives ocean acidification and why is it a concern?
