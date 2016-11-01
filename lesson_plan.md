@@ -16,7 +16,7 @@ WA STATE STANDARDS: e.g. HS-ESS3-1,HS-ESS3-6. See http://www.nextgenscience.org/
 
 KEY VOCABULARY:
 
-ocean acidification – A decrease in ocean water pH caused by increasing atmospheric levels of carbon dioxide (CO2) caused by human activies.
+ocean acidification – A decrease in ocean water pH due to increasing atmospheric levels of carbon dioxide (CO2) caused by human activies.
 
 pCO2 – A measurement of the partial pressure of CO2 in solution.
 
