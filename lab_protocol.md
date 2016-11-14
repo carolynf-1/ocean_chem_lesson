@@ -21,8 +21,8 @@ to illustrate the relationship between alkalinity and salinity)
 In this case we can use our desired final solution for “Solution 1” and the stock solution as “Solution 2” as follows:  
 For a 30 ppt solution we can find our how much stock solution to add (X ml):
 
-	X ml stock solution * _____ppt stock solution = 
-		100 ml desired solution * 30  ppt desired solution
+	X ml stock solution * _____ppt stock solution =  100 ml desired solution * 30  ppt desired solution
+
 	X (mL of stock solution) = ____________
 
 How much DI water should be added to the stock solution? (hint, if you want a total of 100 ml and you used only say 10 mL of stock solution, you would need to add 90ml of water to make the dilution _________
@@ -30,14 +30,16 @@ How much DI water should be added to the stock solution? (hint, if you want a to
 
 For a 25 ppt solution how much stock solution should be added?
 
-	X ml stock solution * _____ppt stock solution = 
-		100 ml desired solution * 25  ppt desired solution
+	X ml stock solution * _____ppt stock solution = 100 ml desired solution * 25  ppt desired solution
+	
 	X (mL of stock solution) = ____________
+	
 	DI water added = ______________
 How about for a 20 ppt solution? 
 (Show work and units!)
 
 	X (mL of stock solution) = ____________
+	
 	DI water added = ______________
 
 Why don’t you summarize with a beautifully organized table. What amounts of stock solution and DI do you want to pour out for each solution?
