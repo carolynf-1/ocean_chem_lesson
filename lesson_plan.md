@@ -61,6 +61,9 @@ What drives ocean acidification and why is it a concern?
 
 What are some possible effects of ocean acidification?
 
+---
+####INFORMATIONAL RESOURCES:
+[Woods Hole Oceanographic Institute Ocean Acidification FAQ](http://www.whoi.edu/OCB-OA/FAQs/)
 
 ---
 ###MATERIALS:
