@@ -1,6 +1,7 @@
-LESSON TITLE: Ocean Acidification and Carbonate Chemistry
+##LESSON TITLE: Ocean Acidification and Carbonate Chemistry
 
-LEARNING OBJECTIVES: 
+---
+###LEARNING OBJECTIVES: 
 - Understand how CO2 affects ocean pH
 - Understand how CO2 dissolves in water
 - Learn relationship between ocean CO2, alkalinity, salinity, temperature, and pH
@@ -11,10 +12,12 @@ LEARNING OBJECTIVES:
 - Use a pH meter
 
 
-WA STATE STANDARDS: e.g. HS-ESS3-1,HS-ESS3-6. See http://www.nextgenscience.org/dci-arrangement/hs-ess3-earth-and-human-activity and http://www.k12.wa.us/Science/NGSS.aspx
+---
+###WA STATE STANDARDS: e.g. HS-ESS3-1,HS-ESS3-6. See http://www.nextgenscience.org/dci-arrangement/hs-ess3-earth-and-human-activity and http://www.k12.wa.us/Science/NGSS.aspx
 
 
-KEY VOCABULARY:
+---
+###KEY VOCABULARY:
 
 ocean acidification – A decrease in ocean water pH due to increasing atmospheric levels of carbon dioxide (CO2) caused by human activies.
 
@@ -40,13 +43,15 @@ Henry's Law – DEFINITION
 
 partial pressure – DEFINITION
 
-KEY BACKGROUND KNOWLEDGE: 
+---
+###KEY BACKGROUND KNOWLEDGE: 
 
 - Understand pH (i.e. measurement of [H+])
 - Concept of solutions (i.e. mixture of dissolved/mixed chemicals, including gases)
 - Basic algebra (ability to solve for an unknown value in a two-side equation)
 
-BACKGROUND:
+---
+###BACKGROUND:
 
 What is ocean acidification?
  
@@ -55,7 +60,8 @@ What drives ocean acidification and why is it a concern?
 What are some possible effects of ocean acidification?
 
 
-MATERIALS:
+---
+###MATERIALS:
 
 - stock saline solution (need concentration, need estimated volume)
 - deionized water (need estimated volume)
@@ -80,3 +86,84 @@ MATERIALS:
 - lab coats
 - safety glasses
 - computer with spreadsheet software
+
+---
+###Alkalinity (Buffering Capacity) 
+
+####Teacher Introduction
+
+Time:
+
+Activities:
+
+Goals:
+
+####Student Lab
+
+Time:
+
+Activities:
+
+Goals:
+
+####Class Discussion
+
+Time:
+
+Activities:
+
+Goals:
+
+---
+###CO2 Dissolution 
+
+####Teacher Introduction
+
+Time:
+
+Activities:
+
+Goals:
+
+####Student Lab
+
+Time:
+
+Activities:
+
+Goals:
+
+####Class Discussion
+
+Time:
+
+Activities:
+
+Goals:
+
+---
+###Collecting & Testing "Unknown" Water Samples 
+
+####Teacher Introduction
+
+Time:
+
+Activities:
+
+Goals:
+
+####Student Lab
+
+Time:
+
+Activities:
+
+Goals:
+
+####Class Discussion
+
+Time:
+
+Activities:
+
+Goals:
