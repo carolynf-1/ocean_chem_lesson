@@ -13,7 +13,9 @@
 
 
 ---
-###WA STATE STANDARDS: e.g. HS-ESS3-1,HS-ESS3-6. See http://www.nextgenscience.org/dci-arrangement/hs-ess3-earth-and-human-activity and http://www.k12.wa.us/Science/NGSS.aspx
+###WA STATE STANDARDS: e.g. HS-ESS3-1,HS-ESS3-6. 
+
+See http://www.nextgenscience.org/dci-arrangement/hs-ess3-earth-and-human-activity and http://www.k12.wa.us/Science/NGSS.aspx
 
 
 ---
@@ -73,8 +75,8 @@ What are some possible effects of ocean acidification?
 - 100mL graduated cyllinder
 - 50mL graduated cylinder
 - squeeze bottle for deionized water
-- waster container (what happens to waste after lab?)
-- HCl (need normality)
+- waste container (what happens to waste after lab?)
+- HCl (0.1M)
 - burette (need capacity)
 - pH meter(s)
 - pH standards
