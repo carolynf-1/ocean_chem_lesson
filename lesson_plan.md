@@ -13,9 +13,15 @@
 
 
 ---
-###WA STATE STANDARDS: e.g. HS-ESS3-1,HS-ESS3-6. 
+###WA STATE STANDARDS:
 
-See http://www.nextgenscience.org/dci-arrangement/hs-ess3-earth-and-human-activity and http://www.k12.wa.us/Science/NGSS.aspx
+e.g.
+- HS-ESS3-1
+- HS-ESS3-6
+
+See: 
+- http://www.nextgenscience.org/dci-arrangement/hs-ess3-earth-and-human-activity
+- http://www.k12.wa.us/Science/NGSS.aspx
 
 
 ---
