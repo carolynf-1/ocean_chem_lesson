@@ -74,25 +74,25 @@ What are some possible effects of ocean acidification?
 ---
 ###MATERIALS:
 
-- stock saline solution (need concentration, need estimated volume)
-- deionized water (need estimated volume)
-- methyl orange solution (need concentration, need estimated volume)
-- 4 x 100mL beakers
-- 4 x 50mL beakers
-- 10mL serological pipette
-- 5mL serological pipette
-- 100mL graduated cyllinder
-- 50mL graduated cylinder
-- squeeze bottle for deionized water
+- stock saline solution (need concentration, need volume)
+- deionized water (need volume)
+- methyl orange solution (need concentration, need volume)
+- 100mL beakers (4)
+- 50mL beakers (4)
+- 10mL serological pipette (how many)
+- 5mL serological pipette (how many)
+- 100mL graduated cyllinder (how many)
+- 50mL graduated cylinder (how many)
+- squeeze bottles for deionized water (how many)
 - waste container (what happens to waste after lab?)
-- HCl (0.1M)
-- burette (need capacity)
-- pH meter(s)
-- pH standards
-- ring stands/clamps for titrations
+- HCl (0.1M, need volume)
+- burette (need capacity, how many)
+- pH meter(s) (how many)
+- pH standards (need volumes)
+- ring stands/clamps for titrations (how many)
 - labeling tape
 - markers
-- refractometers
+- refractometers/hydrometers (how many)
 - gloves
 - lab coats
 - safety glasses
