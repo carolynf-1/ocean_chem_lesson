@@ -89,6 +89,7 @@ What are some possible effects of ocean acidification?
 - burette (need capacity, how many)
 - pH meter(s) (how many)
 - pH standards (need volumes)
+- universal pH indicator (procedure tested with General Hydroponics pH Test Indicator; Amazon cat# B0089AE19O)
 - ring stands/clamps for titrations (how many)
 - labeling tape
 - markers
