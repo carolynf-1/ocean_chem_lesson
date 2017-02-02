@@ -150,23 +150,23 @@ Activities:
 5. Discuss possible hypotheses to explain what they're observing (e.g. If color change is due to change in temperature and we decrease the temperature, then we should see a color change when the beaker is chilled). Write possible hypotheses on the board.
 6. Assign students to groups and have them select (or, assign) a hypothesis to test. Point out available tools for testing (acid solution, base solution, ice, dry ice, hot plate, NaCl solutions, Na2CO3 solution, Instant Ocean solution, etc).
 7. Provide groups with a lab sheet to fill out.
-8. After hypothesis testing is completed, poll each group to see what their test results were and have them graph their data (time-to-color-change). Results/graphs should be written on board for all groups to see.
+8. After hypothesis testing is completed, poll each group to see what their hypotheis and test results were. Have them graph their data (time-to-color-change). Results/graphs should be written on board for all groups to see.
 9. Initiate dicussion about all results. Should lead to various conclusions/realizations:
-  1. Carbon dioxide from dry ice dissolves in solution.
-  2. Carbon dioxide dissolved in solution causes pH to decrease (i.e. to become more acidic).
-  3. Greater amounts of dry ice (i.e. CO2) causes rate of pH change to increase.
-  4. Ocean water is more "resistant" to pH decrease than NaCl solution and/or tap water. Can be used to introduce term/concept of a buffer.
+    1. Carbon dioxide from dry ice dissolves in solution.
+    2. Carbon dioxide dissolved in solution causes pH to decrease (i.e. to become more acidic).
+    3. Greater amounts of dry ice (i.e. CO2) causes rate of pH change to increase.
+    4. Ocean water is more "resistant" to pH decrease than NaCl solution and/or tap water. Can be used to introduce term/concept of a buffer.
   5. Sodium carbonate is "resistant" to pH decrease. Can be used to introduce term/concept of buffer. Also can be tied into similar behavior observed in ocean water.
 
 
 Goals:
 
-1. Promote hypothesis-driven scientific "discovery".
-2. Introduce students to key terms vocabulary:
+1. Promote hypothesis-driven, scientific "discovery".
+2. Introduce students to key vocabulary:
     - pH
     - carbon dioxide
     - buffer
-
+    - salinity    
 3. Introduce students to the effects of carbon dioxide on ocean water pH.
 
 ####Student Lab
@@ -175,7 +175,23 @@ Time:
 
 Activities:
 
+- Use Lab Protocol form to record hypotheses being tested.
+- Use Lab Protocol form to record solutions, solution volumed, dry ice quantities, and times to various degrees of color changes for a given hypothesis.
+- Test hypotheses using various components supplied by instructor.
+- Graph data relative to time-to-color-change.
+- Share results with rest of class.
+- Dicuss own results, as well as other groups' results.
+
 Goals:
+
+- Create hypotheses to guide testing of scientific ideas.
+- "Discover":
+	- Color change in solutions is due to changes in pH.
+	- Carbon dioxide dissolves in solutions.
+	- Carbon dioxide decreases pH in solutions.
+	- Different amounts of dry ice affect the rate of pH change.
+	- Some solutions buffer changes in pH.
+	- Ocean water is more complex than just salt water.
 
 ####Class Discussion
 
