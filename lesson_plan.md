@@ -76,7 +76,7 @@ What are some possible effects of ocean acidification?
 
 - stock saline solution (need concentration, need volume)
 - deionized water (need volume)
-- methyl orange solution (need concentration, need volume)
+- methyl orange solution (0.01% (0.1g/100mL), need volume)
 - 100mL beakers (4)
 - 50mL beakers (4)
 - 10mL serological pipette (how many)
@@ -160,6 +160,14 @@ Activities:
 
 
 Goals:
+
+1. Promote hypothesis-driven scientific "discovery".
+2. Introduce students to key terms vocabulary:
+    - pH
+    - carbon dioxide
+    - buffer
+
+3. Introduce students to the effects of carbon dioxide on ocean water pH.
 
 ####Student Lab
 
