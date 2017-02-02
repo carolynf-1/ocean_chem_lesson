@@ -189,6 +189,7 @@ Goals:
 	- Different amounts of dry ice affect the rate of pH change.
 	- Some solutions buffer changes in pH.
 	- Ocean water is more complex than just salt water.
+- Interpret data and hone critical thinking skills.
 
 ####Class Discussion
 
@@ -212,7 +213,6 @@ Goals:
 	- salinity
 - CO2 causes decrease in water pH.
 - Different solutions have differing rates of pH change.
-- 
 
 ---
 ###Collecting & Testing "Unknown" Water Samples 
