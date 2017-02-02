@@ -133,7 +133,25 @@ Goals:
 
 Time:
 
+Setup:
+
+Prepare the following solutions:
+
+- 0.001M Na2CO3
+- 0.61M NaCl (36g/L)
+- Instant Ocean (36g/L)
+
 Activities:
+
+1. Begin class with dry ice in a large beaker of water to generate interest/curiosity.
+2. Ask students to describe what is happening and what they know about dry ice - write responses on board (e.g. bubbling, "smoke", cold, sublimation, carbon dioxide).
+3. Add dry ice to two different beakers that contain the universal pH indicator and tap water or NaOH solution.
+4. Ask students to describe what is happening - write responses on board (e.g. different starting colors, color change, rate of color change, pH).
+5. Discuss possible hypotheses to explain what they're observing (e.g. If color change is due to change in temperature and we decrease the temperature, then we should see a color change when the beaker is chilled). Write possible hypotheses on the board.
+6. Assign students to groups and have them select (or, assign) a hypothesis to test.
+7. Provide groups with a lab sheet to fill out.
+8. After hypothesis testing is completed, poll each group to see what their test results were and have them graph their data (time-to-color-change). Results/graphs should be written on board for all groups to see.
+9. Initiate dicussion about all results. Should lead to conclusion that gas from dry ice dissolves in solution and changes pH.
 
 Goals:
 
