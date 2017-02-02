@@ -27,7 +27,9 @@ See:
 ---
 ###KEY VOCABULARY:
 
-ocean acidification – A decrease in ocean water pH due to increasing atmospheric levels of carbon dioxide (CO2) caused by human activies.
+acidification - A decrease in pH.
+
+ocean acidification – A decrease in ocean water pH due to increasing atmospheric levels of carbon dioxide (CO2), primarily caused by human activies.
 
 pCO2 – A measurement of the partial pressure of CO2 in solution.
 
@@ -146,17 +148,12 @@ Activities:
 1. Begin class with dry ice in a large beaker of water to generate interest/curiosity.
 2. Ask students to describe what is happening and what they know about dry ice - write responses on board (e.g. bubbling, "smoke", cold, sublimation, carbon dioxide).
 3. Add dry ice to two different beakers that contain the universal pH indicator and tap water or NaOH solution.
-4. Ask students to describe what is happening - write responses on board (e.g. different starting colors, color change, rate of color change, pH).
-5. Discuss possible hypotheses to explain what they're observing (e.g. If color change is due to change in temperature and we decrease the temperature, then we should see a color change when the beaker is chilled). Write possible hypotheses on the board.
+4. Ask students to describe what is happening - write responses on board (e.g. different starting colors, color change, rate of color change, pH). Let students' ideas propel lesson. 
+5. Discuss possible hypotheses to explain what they're observing (e.g. If color change is due to change in temperature and we decrease the temperature, then we should see a color change when the beaker is chilled). Write possible hypotheses on the board. Suggest hypotheses if critical ideas aren't suggested by students.
 6. Assign students to groups and have them select (or, assign) a hypothesis to test. Point out available tools for testing (acid solution, base solution, ice, dry ice, hot plate, NaCl solutions, Na2CO3 solution, Instant Ocean solution, etc).
 7. Provide groups with a lab sheet to fill out.
 8. After hypothesis testing is completed, poll each group to see what their hypotheis and test results were. Have them graph their data (time-to-color-change). Results/graphs should be written on board for all groups to see.
-9. Initiate dicussion about all results. Should lead to various conclusions/realizations:
-    1. Carbon dioxide from dry ice dissolves in solution.
-    2. Carbon dioxide dissolved in solution causes pH to decrease (i.e. to become more acidic).
-    3. Greater amounts of dry ice (i.e. CO2) causes rate of pH change to increase.
-    4. Ocean water is more "resistant" to pH decrease than NaCl solution and/or tap water. Can be used to introduce term/concept of a buffer.
-  5. Sodium carbonate is "resistant" to pH decrease. Can be used to introduce term/concept of buffer. Also can be tied into similar behavior observed in ocean water.
+9. When a student mentions a key vocabulary term, write it on the board. If a student is describing a key vocabulary term but no one in the class knows the term, tell the students the term and write it on the board.
 
 
 Goals:
@@ -199,7 +196,23 @@ Time:
 
 Activities:
 
+- Initiate dicussion about all results. Should lead to various conclusions/realizations:
+    1. Carbon dioxide from dry ice dissolves in solution.
+    2. Carbon dioxide dissolved in solution causes pH to decrease (i.e. to become more acidic).
+    3. Greater amounts of dry ice (i.e. CO2) causes rate of pH change to increase.
+    4. Ocean water is more "resistant" to pH decrease than NaCl solution and/or tap water. Can be used to introduce term/concept of a buffer.
+  5. Sodium carbonate is "resistant" to pH decrease. Can be used to introduce term/concept of buffer. Also can be tied into similar behavior observed in ocean water.
+
 Goals:
+
+- Define key vocabulary:
+	- pH
+	- carbon dioxide
+	- buffer
+	- salinity
+- CO2 causes decrease in water pH.
+- Different solutions have differing rates of pH change.
+- 
 
 ---
 ###Collecting & Testing "Unknown" Water Samples 
