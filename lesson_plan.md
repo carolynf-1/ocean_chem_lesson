@@ -102,33 +102,6 @@ What are some possible effects of ocean acidification?
 - computer with spreadsheet software
 
 ---
-###Alkalinity (Buffering Capacity) 
-
-####Teacher Introduction
-
-Time:
-
-Activities:
-
-Goals:
-
-####Student Lab
-
-Time:
-
-Activities:
-
-Goals:
-
-####Class Discussion
-
-Time:
-
-Activities:
-
-Goals:
-
----
 ###CO2 Dissolution 
 
 ####Teacher Introduction
@@ -213,6 +186,35 @@ Goals:
 	- salinity
 - CO2 causes decrease in water pH.
 - Different solutions have differing rates of pH change.
+
+
+
+---
+###Alkalinity (Buffering Capacity) 
+
+####Teacher Introduction
+
+Time:
+
+Activities:
+
+Goals:
+
+####Student Lab
+
+Time:
+
+Activities:
+
+Goals:
+
+####Class Discussion
+
+Time:
+
+Activities:
+
+Goals:
 
 ---
 ###Collecting & Testing "Unknown" Water Samples 
