@@ -195,7 +195,19 @@ Goals:
 
 Time:
 
+Set up:
+
+- 0.1% methyl orange solution
+- serological pipettes
+- ring stands/clamps
+- 0.1M HCl
+- same solutions used in CO2 dissolution activity
+
 Activities:
+
+1. Perform fast "titration" - solely to demonstrate color change of methyl orange.
+2. Explain it as a means to quantify buffering capacity (i.e. total alkalinity).
+3. Prompte students for hypothese about which solutions will have better/worse buffering capacities, based on data gathered from CO2 dissolution activity.
 
 Goals:
 
