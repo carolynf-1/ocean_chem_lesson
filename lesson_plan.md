@@ -49,9 +49,6 @@ equivalence point – DEFINITION
 
 end point - DEFINITION
 
-Henry's Law – DEFINITION
-
-partial pressure – DEFINITION
 
 ---
 ###KEY BACKGROUND KNOWLEDGE: 
