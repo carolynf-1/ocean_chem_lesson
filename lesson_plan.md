@@ -73,7 +73,8 @@ What are some possible effects of ocean acidification?
 ---
 ###MATERIALS:
 
-- stock saline solution (need concentration, need volume)
+- Instant Ocean (36g/L, need volume)
+- stock saline solution (36g/L, need volume)
 - deionized water (need volume)
 - methyl orange solution (0.1% (0.1g/100mL), need volume)
 - 100mL beakers (4)
