@@ -1,7 +1,7 @@
-##LESSON TITLE: Ocean Acidification and Carbonate Chemistry
+## LESSON TITLE: Ocean Acidification and Carbonate Chemistry
 
 ---
-###LEARNING OBJECTIVES: 
+### LEARNING OBJECTIVES: 
 - Understand how CO2 affects ocean pH
 - Understand how CO2 dissolves in water
 - Learn relationship between ocean CO2, alkalinity, salinity, temperature, and pH
@@ -13,7 +13,7 @@
 
 
 ---
-###WA STATE STANDARDS:
+### WA STATE STANDARDS:
 
 e.g.
 - HS-ESS3-1
@@ -25,7 +25,7 @@ See:
 
 
 ---
-###KEY VOCABULARY:
+### KEY VOCABULARY:
 
 acidification - A decrease in pH.
 
@@ -51,14 +51,14 @@ end point - DEFINITION
 
 
 ---
-###KEY BACKGROUND KNOWLEDGE: 
+### KEY BACKGROUND KNOWLEDGE: 
 
 - Understand pH (i.e. measurement of [H+])
 - Concept of solutions (i.e. mixture of dissolved/mixed chemicals, including gases)
 - Basic algebra (ability to solve for an unknown value in a two-side equation)
 
 ---
-###BACKGROUND:
+### BACKGROUND:
 
 What is ocean acidification?
  
@@ -67,11 +67,11 @@ What drives ocean acidification and why is it a concern?
 What are some possible effects of ocean acidification?
 
 ---
-####INFORMATIONAL RESOURCES:
+#### INFORMATIONAL RESOURCES:
 [Woods Hole Oceanographic Institute Ocean Acidification FAQ](http://www.whoi.edu/OCB-OA/FAQs/)
 
 ---
-###MATERIALS:
+### MATERIALS:
 
 - Instant Ocean (36g/L, need volume)
 - stock saline solution (36g/L, need volume)
@@ -101,9 +101,9 @@ What are some possible effects of ocean acidification?
 - computer with spreadsheet software
 
 ---
-###CO2 Dissolution 
+### CO2 Dissolution 
 
-####Teacher Introduction
+#### Teacher Introduction
 
 Time:
 
@@ -138,7 +138,7 @@ Goals:
     - salinity    
 3. Introduce students to the effects of carbon dioxide on ocean water pH.
 
-####Student Lab
+#### Student Lab
 
 Time:
 
@@ -163,7 +163,7 @@ Goals:
 	- Ocean water is more complex than just salt water.
 - Interpret data and hone critical thinking skills.
 
-####Class Discussion
+#### Class Discussion
 
 Time:
 
@@ -189,9 +189,9 @@ Goals:
 
 
 ---
-###Alkalinity (Buffering Capacity) 
+### Alkalinity (Buffering Capacity) 
 
-####Teacher Introduction
+#### Teacher Introduction
 
 Time:
 
@@ -211,7 +211,7 @@ Activities:
 
 Goals:
 
-####Student Lab
+#### Student Lab
 
 Time:
 
@@ -219,7 +219,7 @@ Activities:
 
 Goals:
 
-####Class Discussion
+#### Class Discussion
 
 Time:
 
@@ -228,17 +228,9 @@ Activities:
 Goals:
 
 ---
-###Collecting & Testing "Unknown" Water Samples 
+### Collecting & Testing "Unknown" Water Samples 
 
-####Teacher Introduction
-
-Time:
-
-Activities:
-
-Goals:
-
-####Student Lab
+#### Teacher Introduction
 
 Time:
 
@@ -246,7 +238,15 @@ Activities:
 
 Goals:
 
-####Class Discussion
+#### Student Lab
+
+Time:
+
+Activities:
+
+Goals:
+
+#### Class Discussion
 
 Time:
 
