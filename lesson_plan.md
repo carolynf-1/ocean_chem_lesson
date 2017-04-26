@@ -29,11 +29,11 @@ See:
 
 ```acidification``` - A decrease in pH.
 
-```ocean acidification```` – A decrease in ocean water pH due to increasing atmospheric levels of carbon dioxide (CO2), primarily caused by human activies.
+```ocean acidification``` – A decrease in ocean water pH due to increasing atmospheric levels of carbon dioxide (CO2), primarily caused by human activies.
 
 ```pCO2``` – A measurement of the partial pressure of CO2 in solution.
 
-``pH``` – Measurement of how acidic/basic a solution is, based on the concentration of hydrogen ions in a solution (pH = -log[H+]).
+```pH``` – Measurement of how acidic/basic a solution is, based on the concentration of hydrogen ions in a solution (pH = -log[H+]).
 
 ```salinity``` – Measurement of how much salt is dissolved in a solution.
 
