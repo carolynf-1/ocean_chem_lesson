@@ -27,27 +27,27 @@ See:
 ---
 ### KEY VOCABULARY:
 
-acidification - A decrease in pH.
+```acidification``` - A decrease in pH.
 
-ocean acidification – A decrease in ocean water pH due to increasing atmospheric levels of carbon dioxide (CO2), primarily caused by human activies.
+```ocean acidification```` – A decrease in ocean water pH due to increasing atmospheric levels of carbon dioxide (CO2), primarily caused by human activies.
 
-pCO2 – A measurement of the partial pressure of CO2 in solution.
+```pCO2``` – A measurement of the partial pressure of CO2 in solution.
 
-pH – Measurement of how acidic/basic a solution is, based on the concentration of hydrogen ions in a solution (pH = -log[H+]).
+``pH``` – Measurement of how acidic/basic a solution is, based on the concentration of hydrogen ions in a solution (pH = -log[H+]).
 
-salinity – Measurement of how much salt is dissolved in a solution.
+```salinity``` – Measurement of how much salt is dissolved in a solution.
 
-total alkilinity – DEFINITION
+```total alkilinity``` – DEFINITION
 
-standard curve – DEFINITION
+```standard curve``` – DEFINITION
 
-buffer – DEFINITION
+```buffer``` – DEFINITION
 
-titration – DEFINITION
+```titration``` – DEFINITION
 
-equivalence point – DEFINITION
+```equivalence point``` – DEFINITION
 
-end point - DEFINITION
+```end point``` - DEFINITION
 
 
 ---
