@@ -3,6 +3,8 @@
 # Ocean Chemistry Lesson
 Lesson plan and curriculum development for basic ocean chemistry.
 
+# NOTE: THIS IS STILL IN DEVELOPMENT. A RELEASE WILL BE ISSUED ONCE COMPLETE.
+
 The lesson is geared towards chemistry students in grades 9 - 12 in Washington state schools.
 
 Descriptions of files contained in this repo:
