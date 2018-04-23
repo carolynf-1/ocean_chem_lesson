@@ -29,7 +29,7 @@ See:
 
 ```acidification``` - A decrease in pH.
 
-```ocean acidification``` – A decrease in ocean water pH due to increasing atmospheric levels of carbon dioxide (CO2), primarily caused by human activies.
+```ocean acidification``` – A decrease in ocean water pH due to increasing atmospheric levels of carbon dioxide (CO2), primarily caused by human activies. Acidifcation is also exacerbated by respiration and other local drivers.
 
 ```pCO2``` – A measurement of the partial pressure of CO2 in solution.
 
@@ -37,17 +37,17 @@ See:
 
 ```salinity``` – Measurement of how much salt is dissolved in a solution.
 
-```total alkilinity``` – DEFINITION
+```total alkilinity``` - is measured by the amount of free acid (H+) ions that is required to neutralize all the negatively charged bicarbonate and carbonate ions in the system. 
 
-```standard curve``` – DEFINITION
+```standard curve``` – A series of known concentrations and associated measured response are graphed and using regression analysis (algebra) the response of an unknown concentration is estimated using the equation "y=mx+b" (the response (y) = the slope of the regression curve times the known concentration (x value) + the intercept of the line (b).
 
-```buffer``` – DEFINITION
+```buffer``` – A solution that resists pH change when an acid or based is added to the solution.
 
-```titration``` – DEFINITION
+```titration``` – Determination of the concentration of an unknown solution using a solution (titrant) of known concentration.
 
-```equivalence point``` – DEFINITION
+```equivalence point``` – When the moles of the titrant equal the moles of the analyte in a titration (e.g. moles of acid equal moles of base).
 
-```end point``` - DEFINITION
+```end point``` - The target measurement of the end of a titration (e.g. reaching a pH of 4.5 in our lab exercise)
 
 
 ---
